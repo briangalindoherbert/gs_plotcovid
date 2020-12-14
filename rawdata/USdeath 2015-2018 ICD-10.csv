@@ -1,0 +1,51 @@
+﻿ICD-10 113 Cause,Letter_category,ICD-113,Deaths_4yr,Population,Rate100
+Major cardiovascular diseases (I00-I78),I,GR113-053,3386195,1297432945,0.261
+"#Diseases of heart (I00-I09,I11,I13,I20-I51)",I,GR113-054,2571940,1297432945,0.198
+#Malignant neoplasms (C00-C97),C,GR113-019,2392350,1297432945,0.184
+Ischemic heart diseases (I20-I25),I,GR113-058,1461911,1297432945,0.113
+All other diseases (Residual) ,R,GR113-111,1319762,1297432945,0.102
+"Other forms of chronic ischemic heart disease (I20,I25)",I,GR113-061,1000233,1297432945,0.077
+Other heart diseases (I26-I51),I,GR113-064,885250,1297432945,0.068
+"All other forms of chronic ischemic heart disease (I20,I25.1-I25.9)",I,GR113-063,748985,1297432945,0.058
+"#Accidents (unintentional injuries) (V01-X59,Y85-Y86)",V,GR113-112,645008,1297432945,0.050
+#Chronic lower respiratory diseases (J40-J47),J,GR113-082,629324,1297432945,0.049
+"Malignant neoplasms of trachea, bronchus and lung (C33-C34)",C,GR113-027,590857,1297432945,0.046
+"Other chronic lower respiratory diseases (J44,J47)",J,GR113-086,584186,1297432945,0.045
+#Cerebrovascular diseases (I60-I69),I,GR113-070,576658,1297432945,0.044
+"All other forms of heart disease (I26-I28,I34-I38,I42-I49,I51)",I,GR113-068,557774,1297432945,0.043
+"Nontransport accidents (W00-X59,Y86)",W,GR113-117,476452,1297432945,0.037
+#Alzheimer disease (G30),G,GR113-052,470087,1297432945,0.036
+Acute myocardial infarction (I21-I22),I,GR113-059,444756,1297432945,0.034
+#Diabetes mellitus (E10-E14),E,GR113-046,328103,1297432945,0.025
+Heart failure (I50),I,GR113-067,317703,1297432945,0.025
+"All other and unspecified malignant neoplasms (C17,C23-C24,C26-C31,C37-C41,C44-C49,C51-C52,C57-C60,C62-C63,C66,C68-C69,C73-C80,C97)",C,GR113-043,287814,1297432945,0.022
+"Atherosclerotic cardiovascular disease, so described (I25.0)",I,GR113-062,251248,1297432945,0.019
+Accidental poisoning and exposure to noxious substances (X40-X49),X,GR113-122,233007,1297432945,0.018
+"Malignant neoplasms of lymphoid, hematopoietic and related tissue (C81-C96)",C,GR113-037,229305,1297432945,0.018
+#Influenza and pneumonia (J09-J18),J,GR113-076,223391,1297432945,0.017
+"Malignant neoplasms of colon, rectum and anus (C18-C21)",C,GR113-023,212862,1297432945,0.016
+"#Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",N,GR113-097,202024,1297432945,0.016
+Renal failure (N17-N19),N,GR113-100,198405,1297432945,0.015
+Pneumonia (J12-J18),J,GR113-078,197556,1297432945,0.015
+Hypertensive heart disease (I11),I,GR113-056,184469,1297432945,0.014
+"#Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",U,GR113-124,184675,1297432945,0.014
+Malignant neoplasm of pancreas (C25),C,GR113-025,173299,1297432945,0.013
+Malignant neoplasm of breast (C50),C,GR113-029,169399,1297432945,0.013
+"Transport accidents (V01-V99,Y85)",V,GR113-113,168556,1297432945,0.013
+"#Chronic liver disease and cirrhosis (K70,K73-K74)",K,GR113-093,165452,1297432945,0.013
+#Septicemia (A40-A41),A,GR113-010,163026,1297432945,0.013
+"Other diseases of respiratory system (J00-J06,J30- J39,J67,J70-J98)",J,GR113-089,163017,1297432945,0.013
+"Motor vehicle accidents (V02-V04,V09.0,V09.2,V12-V14,V19.0-V19.2,V19.4-V19.6,V20-V79,V80.3-V80.5,V81.0-V81.1,V82.0-V82.1,V83-V86,V87.0-V87.8,V88.0-V88.8,V89.0,V89.2)",V,GR113-114,157719,1297432945,0.012
+Falls (W00-W19),W,GR113-118,141847,1297432945,0.011
+"#Essential hypertension and hypertensive renal disease (I10,I12,I15)",I,GR113-069,136597,1297432945,0.011
+"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified (R00-R99)",R,GR113-110,130702,1297432945,0.010
+#Parkinson disease (G20-G21),G,GR113-051,123461,1297432945,0.010
+Intentional self-harm (suicide) by discharge of firearms (X72-X74),U,GR113-125,93242,1297432945,0.007
+"Intentional self-harm (suicide) by other and unspecified means and their sequelae (*U03,X60-X71,X75-X84,Y87.0)",U,GR113-126,91433,1297432945,0.007
+Alcoholic liver disease (K70),K,GR113-094,88261,1297432945,0.007
+Other diseases of circulatory system (I71-I78),I,GR113-072,78707,1297432945,0.006
+#Pneumonitis due to solids and liquids (J69),J,GR113-088,78865,1297432945,0.006
+Other chronic liver disease and cirrhosis (K73-K74),K,GR113-095,77191,1297432945,0.006
+"#Assault (homicide) (*U01-*U02,X85-Y09,Y87.1)",Y,GR113-127,75495,1297432945,0.006
+"Other and unspecified nontransport accidents and their sequelae (W20-W31,W35-W64,W75-W99,X10-X39,X50-X59,Y86)",W,GR113-123,73703,1297432945,0.006
+"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)",Y,GR113-128,55894,1297432945,0.004
